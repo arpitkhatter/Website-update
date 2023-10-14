@@ -1,0 +1,59 @@
+.outer-wrapper{
+
+    display: flex;
+    max-width: 1349px;
+
+}
+.homeText-part{
+    flex:1;
+    width:59.746%;
+    padding: 5% 10% 0% 12%;
+}
+
+.main-text{
+    color: #000707;
+    font-family:  sans-serif;
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 1.4em;
+    letter-spacing: 0px;
+}
+.outer-wrapper{
+    background: #f6f6f6;
+}
+.sub-content{
+    padding-top:5%;
+}
+
+.sub-text{
+    color: #000707DE;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    line-height: 1.6em;
+}
+
+/* .o{
+    color: #0B4C76;;
+} */
+
+.consult-btn{
+    background:#0B4C76;;
+}
+
+.image-part{
+    width:40.254%;
+    text-align: center;
+    /* padding: 6% 17% 0% 13%; */
+    /* float:left; */
+    /* flex-direction: column; */
+}
+
+.image-wrapper{
+    padding-top:5%;
+}
+.imgStyle{
+    height: auto;
+    max-width: 100%;
+    width:69%;
+    border: none;
+}

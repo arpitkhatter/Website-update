@@ -1,0 +1,64 @@
+.outer-wrapper{
+
+    display: flex;
+    
+}
+.homeText-part{
+    flex:1;
+    width:59.746%;
+    padding: 5% 10% 0% 12%;
+}
+
+.main-text{
+    color: #001616;
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.4em;
+    letter-spacing: 0px;
+}
+.outer-wrapper{
+    background: #f6f6f6;
+    max-width: 1349px;
+    background-image: url('../../assets/image-from-rawpixel-id-2607578-jpeg-scaled.jpg');
+
+}
+
+.sub-content{
+    padding-top:5%;
+}
+
+.sub-text{
+    color: #000707B5;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.7em;
+    letter-spacing: 0.8px;
+}
+
+.o{
+    color:teal;
+}
+
+.consult-btn{
+    background:teal;
+}
+
+.image-part{
+    width:40.254%;
+    text-align: center;
+    /* padding: 6% 17% 0% 13%; */
+    /* float:left; */
+    /* flex-direction: column; */
+}
+
+.image-wrapper{
+    padding-top:5%;
+}
+.imgStyle{
+    height: auto;
+    max-width: 100%;
+    width:69%;
+    border: none;
+}

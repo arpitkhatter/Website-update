@@ -1,0 +1,34 @@
+.outer{
+    max-width: 1300px;
+    display: flex;
+}
+
+.table-1-outer{
+    width:50%;
+    text-align: left;
+}
+
+.table-2-outer{
+    width:50%;
+    text-align: left;
+    background: #99AFC62E;
+}
+
+.table-3-outer{
+    width:50%;
+    text-align: left;
+}
+
+.table-1-wrapper{
+    margin: 0px 00px 0px 0px;
+    padding: 20px 0px 020px 0px;
+    border-style: solid;
+    border-width: 0px 0px 01.5px 0px;
+    border-color: #adacac;
+}
+
+.element{
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 1.6em;
+}
